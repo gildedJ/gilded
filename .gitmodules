@@ -1,0 +1,3 @@
+[submodule "gilded.Engine/vendor/spdlog"]
+	path = gilded.Engine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
